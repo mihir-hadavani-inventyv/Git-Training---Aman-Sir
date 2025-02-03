@@ -46,6 +46,10 @@ $ git checkout dev
 $ git merge main
 
 ```
+# Ruleset
+
+![Alt text](image-4.png)
+
 
 # PR create and merge
 
