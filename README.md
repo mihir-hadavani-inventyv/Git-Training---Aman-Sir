@@ -201,13 +201,13 @@ GitHub allows you to enforce rules on branches using branch protection rules. He
    - Open GitHub and navigate to your repository.
 2. Access Repository Settings
 
-   - Click on Settings (top-right corner).
+   - Click on ``Settings`` (top-right corner).
 3. Navigate to Rulesets
 
-   - Scroll down to Code and automation → Rulesets.
+   - Scroll down to Code and ``automation → Rulesets``.
 4. Create a New Ruleset
 
-   - Click New ruleset and give it a name.
+   - Click New ``ruleset`` and give it a name.
 5. Set the Rules
 
    - Select branches or tags where the rules will apply.
@@ -243,12 +243,13 @@ $ git push origin <branch_name>
 
 3. Create a Pull Request (PR)
 
-   - Click on the Pull Requests tab.
-   - Click New Pull Request.
-   - Select the base branch (where changes will be merged).
-   - Select the compare branch (your feature branch).
-   - Add a title and description for the PR. 
-   - Click Create Pull Request.
+   - Click on the ``Pull Requests`` tab.
+   - Click New ``Pull Request``.
+   
+   - Select the ``base branch`` (where changes will be merged).
+   - Select the ``compare branch`` (your feature branch).
+   - Add a ``title and description`` for the PR. 
+   - Click ``Create Pull Request``.
 
 
 ![pr create](image-1.png)
@@ -260,13 +261,16 @@ $ git push origin <branch_name>
 
 4. Request a Review
 
-   - Assign reviewers (team members).
+   - ``Assign reviewers`` (team members).
+   
    - Add labels or project links if needed.
 5. Approve and Merge the Pull Request
 
-   - Once approved, click Merge Pull Request.
-   - Choose Merge commit, Squash merge, or Rebase merge.
-   - Click Confirm merge.
+   - Once ``approved, click Merge Pull Request``.
+   
+   - Choose ``Merge commit, Squash merge, or Rebase merge``.
+   
+   - Click ``Confirm merge``.
 
 ![add review](image-2.png)
 
