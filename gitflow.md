@@ -57,3 +57,7 @@ $ git merge main
 ![Alt text](image-2.png)
 
 After approve merge pull request
+
+## One of my tech club repo flow 
+
+![Alt text](image-3.png)
