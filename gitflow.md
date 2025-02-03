@@ -1,6 +1,6 @@
 
 
-# Branching and mearging
+# Branching and merging
 
 ![branch and merge](image.png)
 
